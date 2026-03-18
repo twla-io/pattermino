@@ -1,0 +1,12 @@
+dist/
+dist-newstyle/
+.stack-work/
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+.ghc.environment.*
+cabal.project.local
+
+# macOS
+.DS_Store
